@@ -3,6 +3,6 @@ php
 mysql
 css
 js
-query
+jquery
 debian
 ```
